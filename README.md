@@ -28,7 +28,7 @@ A React-based form builder application that allows users to create and customize
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/form-builder.git
+git clone https://github.com/latha0001/Form-Builder
 cd form-builder
 ```
 
